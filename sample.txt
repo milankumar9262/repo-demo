@@ -1,2 +1,5 @@
 This is a sample file.
 This is a code added in dev branch.
+This is a new line of code.
+This code is added on master.
+This is code added in qa branch.
