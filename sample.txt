@@ -1,2 +1,4 @@
 This is a sample file.
 This is a new line of code.
+This code is added on master.
+This will create a conflict.
